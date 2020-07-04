@@ -5,7 +5,7 @@ Screenshot of the project is provided below. Thank you!!
 
 
 
-![Alt text](Images/sc1.png?raw=true "Picture 1")
+![Alt text](Images/Sc1.png?raw=true "Picture 1")
 Screenshot 1
-![Alt text](Images/sc2.png?raw=true "Picture 2")
+![Alt text](Images/Sc2.png?raw=true "Picture 2")
 Screenshot 2
