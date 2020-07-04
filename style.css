@@ -1,12 +1,12 @@
 body{
 	background-image: url(./Images/message.png);
-	background-color: rgb(165, 165, 165, 0.5);
+	background-size: 90px;
 	background-repeat: no-repeat;
-	background-position: right bottom;
+	background-position: 98% 100%;
 	background-attachment: fixed;
-	background-size: 100px;
+	background-color: rgb(165, 165, 165, 0.5);
 	padding-right: 20px;
-	padding-left: 20px;
+	padding-left: 20px
 }
 
 #x-background{
@@ -18,15 +18,20 @@ body{
 }
 h1{
 	color: black;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Goudy Bookletter 1911", sans-serif;
 	text-align: left;
 	padding-top: 70px;
 	padding-left: 30px;
 	font-size: 40px;
 }
+.container{
+	background-color: white;
+	border: groove;
+	border-radius: 10px;
+}
 h3{
 	color: black;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Trebuchet MS", sans-serif;
 	text-align: left;
 	padding-top: 0px;
 	padding-left: 30px;
@@ -34,15 +39,11 @@ h3{
 }
 p{
 	color: black;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Palatino Linotype", serif;
 	text-align: justify;
 	padding-top: 10px;
 	padding-left: 30px;
 	padding-right: 30px;
 	
 }
-.container{
-	background-color: white;
-	border: groove;
-	border-radius: 10px;
-}
+
