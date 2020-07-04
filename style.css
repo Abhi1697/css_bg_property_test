@@ -1,0 +1,47 @@
+body{
+	background-image: url(./Images/message.png);
+	background-color: rgb(165, 165, 165, 0.5);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
+	background-size: 100px;
+
+}
+
+#x-background{
+	background-image: url(./Images/abstract.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	border-radius: 10px;
+
+}
+h1{
+	color: black;
+	font-family: "Times New Roman", Times, serif;
+	text-align: left;
+	padding-top: 70px;
+	padding-left: 30px;
+	font-size: 40px;
+}
+h3{
+	color: black;
+	font-family: "Times New Roman", Times, serif;
+	text-align: left;
+	padding-top: 0px;
+	padding-left: 30px;
+	font-size: 30px;
+}
+p{
+	color: black;
+	font-family: "Times New Roman", Times, serif;
+	text-align: justify;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+.container{
+	background-color: white;
+	border: groove;
+	border-radius: 10px;
+}
